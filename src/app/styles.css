@@ -1,0 +1,11 @@
+#content {
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+.task, .trash {
+  cursor: pointer;
+}
+.progress-bar {
+  width: 100%;
+}
