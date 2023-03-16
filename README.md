@@ -4,4 +4,4 @@ The perfect solution for managing your tasks with ease and track your progress. 
 
 In this project I'm using HTML, CSS, JavaScript and Bootstrap 5.
 
-<img src="src/assets/screen.png" alt="App" style="height: 400px;"/>
+<img src="assets/screen.png" alt="App" style="height: 400px;"/>
